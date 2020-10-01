@@ -148,3 +148,13 @@ section {
   border-width: 1px;
   border-color: #a0a0a0;
 }
+
+.search-button {
+  background-color: #a0a0a0;
+  color: #ffffff;
+  width: 100px;
+  height: 30px;
+  /* It is best practice to use 0 without the px unit. */
+  border: 0;
+  padding: 0;
+}
