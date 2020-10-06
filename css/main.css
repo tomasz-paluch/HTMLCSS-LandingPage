@@ -186,3 +186,13 @@ section {
 .account a {
   font-size: 14px;
 }
+
+.profile-pic {
+  height: 60px;
+  width: 60px;
+}
+
+.profile-pic img {
+  border-radius: 100px;
+  max-width: 100%;
+}
