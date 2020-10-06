@@ -171,3 +171,18 @@ section {
   text-transform: uppercase;
   letter-spacing: 0.2px;
 }
+
+.profile {
+  margin-left: auto;
+}
+
+.account {
+  text-align: right;
+  padding: 15px;
+  font-size: 18px;
+  color: #364147;
+}
+
+.account a {
+  font-size: 14px;
+}
