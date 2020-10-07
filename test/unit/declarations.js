@@ -310,7 +310,7 @@ const declarations = {
     },
   },
   fullBannerBefore: {
-    content: '""',
+    content: "''",
     position: 'absolute',
     border: '1px solid #ffffff',
     top: '30px',
