@@ -334,3 +334,10 @@ section {
   margin: 20px auto;
   display: block;
 }
+
+.full-banner-sidebar .btn.btn-default {
+  margin-top: 50px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  z-index: 1;
+}
