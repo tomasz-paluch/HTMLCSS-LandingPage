@@ -409,7 +409,7 @@ const declarations = {
     },
   },
   footerAfter: {
-    content: '""',
+    content: "''",
     'background-color': '#a0a0a0',
     width: '75%',
     position: 'absolute',
@@ -542,12 +542,12 @@ const declarations = {
     selector: '.demo',
   },
   demoBefore: {
-    content: '""',
+    content: "''",
     display: 'block',
     width: '100%',
     height: '1px',
     margin: '30px 0',
-    background: 'linear-gradient(to right,#f05a28 0,#e80a89 100%)',
+    background: 'linear-gradient(to right, #f05a28 0, #e80a89 100%)',
     selector: '.demo:before',
     unique: {
       margin: '30px 0',
