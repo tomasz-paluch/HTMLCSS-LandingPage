@@ -357,7 +357,7 @@ const declarations = {
     },
   },
   fullBannerSidebarH4After: {
-    content: '""',
+    content: "''",
     width: '100px',
     height: '1px',
     'background-color': '#faa541',
